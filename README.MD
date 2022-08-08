@@ -12,7 +12,7 @@ P.L.U.R.N. is a python-based adventure game set that makes use of several Object
 
 Published June 2022
 
-[Email Me](blake.lein@gmail.com) / [GitHub](https://github.com/BlakeLein?tab=repositories)
+[Email Me](blake.lein@gmail.com) / [GitHub](https://github.com/BlakeLein/P.L.U.R.N.)
 
 [You can view an article I wrote about the making of this project here](https://medium.com/@blake.lein/p-l-u-r-n-ing-to-fly-3ab879e299a1)
 
@@ -46,17 +46,17 @@ Published June 2022
 
 2. Ensure that the plurn folder is saved to your computer. You can clone the repository to your Desktop by entering the following text in your command line:
 
-`git clone https://github.com/BlakeLein/dc_work.git`
+`git clone https://github.com/BlakeLein/P.L.U.R.N..git`
 
 3. Navigate to the plurn folder by typing:
 
 **Mac/Linux users:**
 
-`cd dc_work/projects/plurn`
+`cd P.L.U.R.N.`
 
 **Windows users:**
 
-`cd C:/Users/username/dc_work/projects/plurn`
+`cd C:/Users/username/P.L.U.R.N.`
 
 4. Play the game by opening that folder in your command line and typing:
 
